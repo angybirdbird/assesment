@@ -1,0 +1,18 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    static void Fart(String toppings){
+        System.out.println(toppings + " is very good");
+    }
+    public static void main(String[] args) {
+        int idk = 4;
+        char ok = 'd';
+        boolean rizz = true;
+        double food = 33.333;
+        float risk = 33.33f;
+        String fart = "This is a string";
+        // idk how to make an array
+        Fart("pepperoni");
+        // camel casing: It's Me, Mario --> itsMeMario
+    }
+}
